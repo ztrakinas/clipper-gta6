@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store
+node_modules/
+editor/public/vozes/
+editor/roteiros/*/voz.*
+editor/roteiros/*/take*
+*.mp4
+*.mp3
+!editor/public/sfx/*.mp3
